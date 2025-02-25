@@ -1,2 +1,2 @@
 # Horario
- Mudança da página com base no horário
+ Mudança da página com base no horário do sistema
